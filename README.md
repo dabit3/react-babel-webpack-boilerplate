@@ -1,4 +1,4 @@
-This repo is a boilerplate for React-Babel-Webpack project. You could use it as a base to build your own web app.
+React Project
 
 ## Features
 
@@ -10,8 +10,6 @@ This repo is a boilerplate for React-Babel-Webpack project. You could use it as 
 - Support git pre-commit hook used to lint and test your code
 
 ## How to use
-
-First, you should clone the repo and install the dependencies.
 
 ```bash
 $ git clone git@github.com:ruanyf/react-babel-webpack-boilerplate.git <yourAppName>
