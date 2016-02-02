@@ -12,7 +12,7 @@ React Project
 ## How to use
 
 ```bash
-$ git clone git@github.com:ruanyf/react-babel-webpack-boilerplate.git <yourAppName>
+$ git clone git@github.com:dabit3/react-babel-webpack-boilerplate.git <yourAppName>
 $ cd <yourAppName>
 $ npm install
 ```
